@@ -3,11 +3,59 @@
     "session_id": "HGHS87811jjsk112",
     "session_password": "HJssqqwe122111"
     },
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "Glimpse"
-  }
+  "get_core_details": {
+    "user_details":{
+      "name": "Parth Patel",
+      "email" : "parth.patel@gmail.com",
+      "profile_image_url" : "https://ascotgroup.com/wp-content/uploads/2018/03/Parth-Patel-1-400x575.jpg"
+    },
+    "store_details":[
+    {
+      "id": "23",
+      "location": "Visnagar"
+    },
+    {
+      "id": "24",
+      "location": "Ahmedabad"
+    }
+    ],
+
+    "user_type_details":[
+    {
+      "id": "13",
+      "value": "All"
+    },
+    {
+      "id": "14",
+      "value": "Only Male"
+    },
+    {
+      "id": "14",
+      "value": "Only Female"
+    }
+    
+    ]
+    },
+    "get_footfall_details":{
+      "number_chart":[
+        {
+          "progress_bar_percentage": "14",
+          "title": "Week-On-Week Growth",
+          "sub_title": "Growth over past week",
+          "value": "4.5%"
+        },
+        {
+          "progress_bar_percentage": "54",
+          "title": "Month-On-Month Growth",
+          "sub_title": "Growth over past month",
+          "value": "5.5%"
+        },
+        {
+          "progress_bar_percentage": "84",
+          "title": "Footfalls",
+          "sub_title": "Number of customers",
+          "value": "3544"
+        }
+      ]
+    }
 }
