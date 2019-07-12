@@ -107,5 +107,51 @@
         "https://glimpseanalytics.com/img/content/services/path.png",
         "https://glimpseanalytics.com/img/content/services/path.png"
       ]
+    },
+    "get_export_details":{
+      "export_items":[
+          {
+          "title": "Footfall Export",
+          "Link": "http://www3.wabash.edu/econometrics/EconometricsBook/Chapters/Ch03PivotTables/ExcelFiles/EastNorthCentralFTWorkers.xls"
+          },
+          {
+          "title": "Dwell Time Export",
+          "Link": "http://www3.wabash.edu/econometrics/EconometricsBook/Chapters/Ch03PivotTables/ExcelFiles/EastNorthCentralFTWorkers.xls"
+          },
+          {
+          "title": "User Export",
+          "Link": "http://www3.wabash.edu/econometrics/EconometricsBook/Chapters/Ch03PivotTables/ExcelFiles/EastNorthCentralFTWorkers.xls"
+          }
+      ]
+    },
+    "get_demographics":{
+    "bar_chart":[
+        {
+          "x":"0-20",
+          "y":20
+        },
+        {
+          "x":"20-40",
+          "y":40
+        },
+        {
+          "x":"40-60",
+          "y":30
+        },
+        {
+          "x":"60+",
+          "y":10
+        }
+      ],
+    "pie_chart":[
+        {
+          "x":"Male",
+          "y":40
+        },
+        {
+          "x":"Female",
+          "y":60
+        }
+    ]
     }
 }
