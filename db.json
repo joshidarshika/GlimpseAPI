@@ -56,6 +56,56 @@
           "sub_title": "Number of customers",
           "value": "3544"
         }
+      ],
+      "line_chart":[
+        {
+          "x":"8th",
+          "y":20
+        },
+        {
+          "x":"9th",
+          "y":40
+        },
+        {
+          "x":"10th",
+          "y":60
+        },
+        {
+          "x":"11th",
+          "y":38
+        },
+        {
+          "x":"12th",
+          "y":87
+        },
+        {
+          "x":"13th",
+          "y":45
+        },
+        {
+          "x":"14th",
+          "y":34
+        }
+      ],
+      "table_details":{
+        "headers_array":["No.","location","footfalls"],
+        "data_array":[
+          ["1","Ahmedabad","2344"],
+          ["2","Surat","2212"],
+          ["3","Mumbai","4322"],
+        ]
+      }
+    },
+    "get_heatmap_details":{
+      "heatmap_image_url":[
+        "https://glimpseanalytics.com/img/content/services/heatmap.png",
+        "https://glimpseanalytics.com/img/content/services/heatmap.png"
+      ]
+    },
+    "get_store_path_details":{
+      "path_image_url":[
+        "https://glimpseanalytics.com/img/content/services/path.png",
+        "https://glimpseanalytics.com/img/content/services/path.png"
       ]
     }
 }
